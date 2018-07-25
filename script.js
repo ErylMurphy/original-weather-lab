@@ -8,8 +8,11 @@ const getWeather = (zipcode) => {
         })
         .then(json => {
             const weather2day = {
+                name: , 
                 description: ,
                 temp: ,
+                clouds: ,
+
             }
         }
         );
